@@ -19,4 +19,5 @@ kits.randomCol = function () {
     }
     //赋值完成并返回数值
     return Col;
+    //注释
 }
